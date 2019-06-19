@@ -42,6 +42,7 @@ header {
 .subtitle {
   text-align: center;
   font-size: 2.5rem;
+  margin: 0;
   transition: 0.5s;
   animation: spin-fade-in 2s ease-out;
   animation-fill-mode: forwards
@@ -147,11 +148,11 @@ img.photo {
   border: 3px solid white
 }
 
-h1 {
+h1, h2 {
   font-size: 2.5rem
 }
 
-h2 {
+h3 {
   font-size: 1.8rem;
   margin-bottom: 0px
 }
