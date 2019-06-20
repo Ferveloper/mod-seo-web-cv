@@ -15,3 +15,4 @@ Maquetación SEO de una página web de currículum
 - Las section tienen un ancho del 75% para dejar espacio al menú lateral, y por maquetación, están contenidas dentro de divs con el ancho de pantalla para aplicar los colores de fondo.
 - Foto maquetada mediante figure y figcaption.
 - En el footer, el texto "ESTOS SON MIS PERFILES EN INTERNET" está escrito en el HTML en formato de frase normal y se poneen mayúsculas mediante CSS.
+- Etiqueta address en el footer para marcar los perfiles sociales de contacto.
