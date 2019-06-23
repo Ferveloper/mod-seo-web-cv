@@ -222,8 +222,9 @@ button {
 }
 
 /* Pie de página */
-footer {
+footer address {
   color: white;
+  font-style: normal;
   background-color: darkgoldenrod;
   padding: var(--width-mobile);
   padding-left: var(--width-desktop);
@@ -233,26 +234,26 @@ footer {
   align-items: center
 }
 
-footer p {
+footer address p {
   font-weight: bolder;
   text-transform: uppercase
 }
 
-footer ul {
+footer address ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-content: center
 }
 
-footer li {
+footer address li {
   display: inline-block;
   padding: 20px;
   font-size: 1.1rem;
   font-weight: bold
 }
 
-footer li a {
+footer address li a {
   display: flex;
   align-items: center;
   justify-items: center;
@@ -264,14 +265,14 @@ footer li a {
   padding: 5px
 }
 
-footer .footer-icon {
+footer address .footer-icon {
   height: 32px;
   margin-right: 10px;
   border-radius: 50%;
   background-color: white
 }
 
-footer li a:hover {
+footer address li a:hover {
   color: gold;
   transition: 1s
 }
