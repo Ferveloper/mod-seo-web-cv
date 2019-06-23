@@ -2,7 +2,7 @@
 
 Maquetación SEO de una página web de currículum.
 
-Enlace a la web: https://ferveloper.github.io/mod-seo-web-cv/
+Además de poder revisarse el código HTML en este repositorio, puede verse la página web en el siguiente enlace: https://ferveloper.github.io/mod-seo-web-cv/
 
 ## Esquema general del documento
 
