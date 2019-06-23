@@ -1,10 +1,12 @@
 # Práctica SEO
 
-Maquetación SEO de una página web de currículum
+Maquetación SEO de una página web de currículum.
+
+Enlace a la web: https://ferveloper.github.io/mod-seo-web-cv/
 
 ## Esquema general del documento
 
-De acuerdo a las buenas prácticas del SEO, seha estructurado el documento web con los siguientes criterios.
+De acuerdo a las buenas prácticas del SEO, se ha estructurado el documento web con los siguientes criterios.
 
 La estructura de la web se compone de un único encabezado `h1` situado dentro del `header`. Las diferentes secciones del CV están envueltas en etiquetas `section` y encabezadas por un `h2`. Las subsecciones, donde son necesarias, están encabezadas por un `h3`. La estructura de encabezados queda de la siguiente manera:
 
